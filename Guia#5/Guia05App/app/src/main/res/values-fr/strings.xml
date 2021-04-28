@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Guia05App</string>
+    <string name="greet1">Bonjour Utilisateur</string>
+    <string name="greet2">Bienvenue sur mon Appli</string>
+</resources>
